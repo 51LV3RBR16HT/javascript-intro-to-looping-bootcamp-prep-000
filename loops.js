@@ -11,5 +11,5 @@ return array
 }
 
 function whileLoop(n) {
-  
+  let countdown = 
 }
