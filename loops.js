@@ -14,6 +14,5 @@ function whileLoop(50) {
   while (50 > 0) {
     consol.log(--
     countdown)
+    return 'done'
 }
-
-  
