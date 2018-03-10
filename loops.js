@@ -10,9 +10,11 @@ function forLoop(array) {
 return array
 }
 
-function whileLoop(50) {
-  while (50 > 0) {
-    consol.log(--
+function whileLoop(n) {
+  let countdown = n;
+  while (countdown > 0) {
+    console.log(--
     countdown)
-    return 'done'
+    return "done"
+  }
 }
