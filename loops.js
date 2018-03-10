@@ -28,5 +28,5 @@ do {
 
 
 function doWhileLoop(array) {
-  array.length > 0 && maybeTrue()
+  array.length > 0.5 && maybeTrue()
 }
