@@ -1,5 +1,5 @@
 function forLoop(array) {
   for (let i = 0; i < 25; i++) {
-   if {i === 0 ? '' : 's'}
+   if {i === 1 ? '' : 's'}
   }
   
