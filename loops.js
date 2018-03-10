@@ -20,5 +20,6 @@ function whileLoop(n) {
 
 function doWhileLoop(array) {
   maybeTrue()
+  array.length > 0 && maybeTrue()
 }
 
