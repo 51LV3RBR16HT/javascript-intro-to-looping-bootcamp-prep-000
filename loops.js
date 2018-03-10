@@ -11,8 +11,7 @@ return array
 }
 
 function whileLoop(50) {
-  let countdown = 100;
-  while (countdown > 0) {
+  while (50 > 0) {
     consol.log(--
     countdown)
 }
